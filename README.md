@@ -41,7 +41,7 @@ engineer, leaving visible only those parts that are needed to put annotations.
 How to use
 ---
 
-Please review our [report]() on using EVF to perform a partial formal verification of a 
+Please review our [report](https://github.com/unboxedtype/EVF/blob/main/docs/FlexReport.pdf) on using EVF to perform a partial formal verification of a 
 blockchain trading system called Flex. All artifacts are available inside _samples_ directory.
 Please keep in mind that the report was written when Everscale was called FreeTON, hence
 the framework was called TVF, i.e. TON Verification framework. Besides those syntactic changes,
@@ -49,7 +49,7 @@ everything else seems actual.
 
 License
 ---
-**EVF** is licensed under the MIT license. (See LICENSE.txt in the root directory for details.) 
+**EVF** is licensed under the MIT license. (See LICENSE file in the root directory for details.) 
 
 Sponsoring
 ---
